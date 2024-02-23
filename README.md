@@ -1,4 +1,4 @@
-## Hi I'm Alice. 👋
+# Hi I'm Alice. 👋
 
 👧 I'm an experienced Business and Data Analyst and a proud graduate with a postgraduate degree in Business Analysis and Consulting. Driven by a relentless pursuit of precision, a deeply analytical mindset, and the art of critical thinking, I'm fascinated by the intricacies of data and coding, firmly believing in the power of data to unveil stories that inspire and inform.
 
