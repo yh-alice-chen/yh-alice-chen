@@ -1,5 +1,9 @@
 # Hi I'm Alice. 👋
 
+<p align="center">
+<img src="https://github.com/yh-alice-chen/yh-alice-chen/assets/147277276/18b15e6e-80f3-4147-b25c-92fcf1640b94" width="300" alt="great cover photo 12">
+<p>
+
 👧 I'm an experienced Business Analyst and a proud graduate with a postgraduate degree in Business Analysis and Consulting. Driven by a relentless pursuit of precision, a deeply analytical mindset, and the art of critical thinking, I'm fascinated by the intricacies of data and coding, firmly believing in the power of data to unveil stories that inspire and inform.
 
 🔍 My journey is marked by a meticulous attention to detail and a passion for uncovering the hidden narratives within datasets. I thrive on the challenge of transforming complex information into actionable insights, using my skills to bridge the gap between data and decision-making.
